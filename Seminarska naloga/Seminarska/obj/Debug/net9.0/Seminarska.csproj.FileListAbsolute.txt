@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\obj\Debug\net9.0\Seminarska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\obj\Debug\net9.0\Seminarska.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\obj\Debug\net9.0\Seminarska.AssemblyInfo.cs
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\obj\Debug\net9.0\Seminarska.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\bin\Debug\net9.0\Seminarska.exe
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\bin\Debug\net9.0\Seminarska.deps.json
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\bin\Debug\net9.0\Seminarska.runtimeconfig.json
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\bin\Debug\net9.0\Seminarska.dll
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\bin\Debug\net9.0\Seminarska.pdb
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\obj\Debug\net9.0\Seminarska.dll
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\obj\Debug\net9.0\refint\Seminarska.dll
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\obj\Debug\net9.0\Seminarska.pdb
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\obj\Debug\net9.0\Seminarska.genruntimeconfig.cache
+C:\Users\User\Downloads\Seminarska naloga\Seminarska\obj\Debug\net9.0\ref\Seminarska.dll

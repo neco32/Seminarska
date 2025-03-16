@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Seminarska\\Seminarksa-Visual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D62A8D68-7112-4729-BA84-96A6E67EA442}|Seminarksa-Visual\\Seminarksa-Visual.csproj|c:\\users\\user\\downloads\\seminarska\\seminarksa-visual\\seminarksa-visual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D62A8D68-7112-4729-BA84-96A6E67EA442}|Seminarksa-Visual\\Seminarksa-Visual.csproj|solutionrelative:seminarksa-visual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Seminarska\\Seminarksa-Visual\\Seminarksa-Visual\\Form1.cs",
+              "RelativeDocumentMoniker": "Seminarksa-Visual\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Seminarska\\Seminarksa-Visual\\Seminarksa-Visual\\Form1.cs [Design]",
+              "RelativeToolTip": "Seminarksa-Visual\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:33:53.526Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
